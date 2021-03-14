@@ -1,0 +1,5 @@
+- 👩‍💻 Hi, I’m Emma King
+- 🎨 I paint, design, create and code
+- 📚📚 Studied edu.psychology, chemistry and computer science at Uni of Helsinki
+- 🌱 I’m currently learning React
+- ☕ I’m looking to collaborate with interesting people
