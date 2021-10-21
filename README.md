@@ -1,5 +1,5 @@
-- 👩‍💻 Hi, I’m Emma King
-- 🎨 I paint, design, create and code
+- 👩‍💻 Devisgner
 - 📚📚 Studied edu.psychology, chemistry and computer science at Uni of Helsinki
-- 🌱 I’m currently learning React
-- ☕ I’m looking to collaborate with interesting people
+- 👩‍🎨 Studied graphic design at Helsinki Design Shcool
+- 🌱 I’m currently learning front-end web dev
+- 🎨 Paintings, illustrations and more on Instagram @emmaking.dev
