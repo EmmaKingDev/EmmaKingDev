@@ -1,5 +1,5 @@
-- 👩‍💻 Devisgner
-- 📚📚 Studied edu.psychology, chemistry and computer science at Uni of Helsinki
-- 👩‍🎨 Studied graphic design at Helsinki Design Shcool
-- 🌱 I’m currently learning front-end web dev
-- 🎨 Paintings, illustrations and more on Instagram @emmaking.dev
+- 👩‍💻 devsigner
+- 📚📚 edu.psychology, chemistry and computer science at Uni of Helsinki
+- 👩‍🎨 graphic design at Helsinki Design Shcool
+- 🌱 learning front-end web dev
+- 🎨 illustrations -> instagram @emmaking.dev
