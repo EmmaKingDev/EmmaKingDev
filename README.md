@@ -1,5 +1,5 @@
 - 👩‍💻 devsigner
-- 📚📚 edu.psychology, chemistry and computer science at Uni of Helsinki
+- 📚📚 computer science, chemistry and edu.psycholgy at University of Helsinki
 - 👩‍🎨 graphic design at Helsinki Design Shcool
 - 🌱 learning front-end web dev
 - 🎨 illustrations -> instagram @emmaking.dev
