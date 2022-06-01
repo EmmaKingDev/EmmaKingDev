@@ -1,5 +1,5 @@
-- 👩‍💻 devsigner
-- 📚📚 computer science, chemistry and edu.psycholgy at University of Helsinki
+- 👩‍💻 cloud & code
+- 📚 computer science, chemistry and edu.psycholgy at University of Helsinki
+- 📚 AWS cloud at AW Academy Finland
 - 👩‍🎨 graphic design at Helsinki Design Shcool
-- 🌱 learning front-end web dev
 - 🎨 illustrations -> instagram @emmaking.dev
