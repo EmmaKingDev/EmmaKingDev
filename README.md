@@ -1,5 +1,5 @@
 - 👩‍💻 cloud & code
-- 📚 computer science, chemistry and edu.psycholgy at University of Helsinki
 - ☁️ AWS Developer
+- 📚 computer science, chemistry and edu.psycholgy at University of Helsinki
 - 👩‍🎨 graphic design at Helsinki Design Shcool
 - 🎨 illustrations -> instagram @emmaking.dev
