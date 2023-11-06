@@ -3,4 +3,4 @@
 - 📚 computer science, chemistry and edu.psycholgy at University of Helsinki
 - 👩‍🎨 graphic design at Helsinki Design Shcool
 
-emmakingdev.github.io/cv/
+[Here's my CV](https://emmakingdev.github.io/cv/)
