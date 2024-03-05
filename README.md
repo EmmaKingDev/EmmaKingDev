@@ -1,4 +1,4 @@
-- 👩‍💻 consultant, daily work on Kubernetes, DevOps, AWS
+- 👩‍💻 consultant, daily work on all things DevOps & AWS
 - ☁️ AWS Developer
 - 📚 computer science, chemistry and edu.psycholgy at University of Helsinki
 - 👩‍🎨 graphic design at Helsinki Design Shcool
